@@ -1,0 +1,55 @@
+.main-title-event{
+    margin-top: 50%;
+    color: black;
+}
+
+
+.workbox p{
+    color: #575555;
+}
+
+#intro-event{
+    margin-top: 30%;
+}
+
+.icon{
+    margin-top: -8%;
+}
+
+.line-event{
+    margin-bottom: 3%;
+}
+
+
+.img-1{
+    width: 50%;
+}
+
+.img-2{
+    width: 70%;
+}
+
+
+.info{
+    color: #000000;
+}
+
+
+@media (max-width: 1024px){
+    .img-1{
+        width: 90%;
+    }
+    
+    .img-2{
+        width: 95%;
+    }   
+    .main-title{
+        margin-top: 9%;
+    }
+    #intro-event{
+        margin-top: 15%;
+    }
+    .icon{
+        margin-top: 10%;
+    }
+}
